@@ -11,3 +11,5 @@ file ex mining goes to "MiningData.lua" in GatherMate2_Data folder and replace a
 3. Profit! Togheter we are ascention!
 
 i also accept pull requests.
+
+Now support for Routes (https://github.com/robgha01/Routes)
