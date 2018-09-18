@@ -9,3 +9,5 @@ file ex mining goes to "MiningData.lua" replace all content and save
 2. Create a issue and upload the exported .lua data files
 
 3. Profit! Togheter we are ascention!
+
+i also accept pull requests.
