@@ -1,0 +1,14 @@
+tag v1.1.8
+6182e58a91258ffeee654aab5f8907eed2eba392
+Xinhuan <xinhuan@pacific.net.sg>
+2010-12-15 05:24:54 +0800
+
+Tag v1.1.8
+
+
+--------------------
+
+Xinhuan:
+	- Update version to 1.1.8
+	- Fix error with changes to Routes.
+	- Fix an error that occurs when you turn on "Use Char Pitch". The error itself is harmless.

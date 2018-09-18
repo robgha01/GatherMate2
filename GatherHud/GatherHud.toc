@@ -1,0 +1,33 @@
+﻿## Interface: 30300
+## Title: GatherHud
+## Version: 1.1.8
+## Notes: GatherHud for GatherMate2 with Routes support
+## Notes-frFR: GatherHud pour GatherMate2 avec support de Routes.
+## Author: Grum, Xinhuan, Areasis (Backport)
+## Version: v1.1.8
+## DefaultState: enabled
+## X-Category: Map
+## X-eMail: routes @ grum DOT nl & xinhuan @ gmail DOT com
+## X-Name: GatherHud
+## X-Curse-Packaged-Version: v1.1.8
+## X-Curse-Project-Name: GatherHud
+## X-Curse-Project-ID: gather-hud
+## X-Curse-Repository-ID: wow/gather-hud/mainline
+
+## RequiredDeps: GatherMate2
+## OptionalDeps: Routes
+## LoadWith: GatherMate2
+## SavedVariables: GatherHudDB
+
+# Locale files
+Locales\Locale-enUS.lua
+Locales\Locale-deDE.lua
+Locales\Locale-esES.lua
+Locales\Locale-frFR.lua
+Locales\Locale-koKR.lua
+Locales\Locale-ruRU.lua
+Locales\Locale-zhCN.lua
+Locales\Locale-zhTW.lua
+
+# Core files
+GatherHud.lua
